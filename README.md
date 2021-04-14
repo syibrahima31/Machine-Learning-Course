@@ -3,12 +3,24 @@
 
 
 
-> Ce répertoire va être mis à jour au fur du temps que le cours avance donc je vous recommande á le consulter régulièreme
+> Ce répertoire va être mis à jour au fur du temps que le cours avance donc je vous recommande á le consulter régulièrement
+> 
+
+
+
 
 
 ## Niveau : Master 2  Modélisation Statistique et Informatique (**MSI**)
 
 ## Structure : Université Cheikh Anta Diop de Dakar (**UCAD**)
+
+
+
+
+
+
+
+
 
 Partie I : Machine Learning (Apprentissage automatique ) 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
