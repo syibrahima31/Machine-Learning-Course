@@ -28,3 +28,5 @@ Partie I : Machine Learning (Apprentissage automatique )
 ### Chapitre 1 : Les Concepts Fondamentaux 
 
 ### Chapitre 2 : K plus proches voisins 
+
+### Chapitre 2 : Linear Regression
