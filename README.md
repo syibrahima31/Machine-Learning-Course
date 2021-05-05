@@ -29,4 +29,5 @@ Partie I : Machine Learning (Apprentissage automatique )
 
 ### Chapitre 2 : K plus proches voisins 
 
-### Chapitre 2 : Linear Regression
+### Chapitre 3 : Linear Regression
+### Chapitre 4 : Perceptron simple  
