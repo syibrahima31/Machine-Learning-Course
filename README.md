@@ -32,3 +32,5 @@ Partie I : Machine Learning (Apprentissage automatique )
 ### Chapitre 3 : Linear Regression
 ### Chapitre 4 : Perceptron simple  
 ### Chapitre 5  : Neurone Formel : Régression Logistique
+### Chapitre 6 : Introduction au deep learning 
+### projet : projet final 
